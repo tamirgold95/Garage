@@ -1,2 +1,2 @@
 # Garage
-Garage management system
+Basic garage management system
